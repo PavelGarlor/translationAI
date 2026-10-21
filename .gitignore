@@ -1,0 +1,25 @@
+# Confidential material — never committed. Moved between laptops manually.
+confidential/
+
+# Document and image files must never be committed, wherever they are.
+*.pdf
+*.doc
+*.docx
+*.odt
+*.rtf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.tif
+*.tiff
+*.gif
+*.webp
+*.zip
+
+# Local environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json
